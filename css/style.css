@@ -1,0 +1,85 @@
+
+.container{ 
+	width: 1088px;
+	height: 376px;
+   margin: 20px auto;
+/*   background: yellow;*/
+}
+
+.rest{
+	font-size: 14px;
+	color: #5863F8;
+	font-family: 'Poppins';
+}
+
+.right-box-menu{
+	font-size:38px;
+	color: #000000;
+	font-family: 'Poppins', sans-serif;
+	width: 422px;
+	height:112px;
+}
+
+
+.box-left{
+	width:536px;
+	height:190px;
+	background: #F8F8F8;
+	display: inline-block;
+} 
+.image-food1{
+	width: 168px;
+	height: 190px;
+}
+
+.leftbox-text{
+	width: 238px;
+	height: 112px;
+	display: inline-block;
+   vertical-align: top;
+   margin-top: 20px;
+   margin-left: 10px;
+}
+
+
+h3{
+	color: #5863F8;
+	font-family: 'Poppins';
+}
+
+.image-food2{
+	width: 168px;
+	height: 190px;
+}
+
+.box-reight{
+	width:536px;
+	height:190px;
+	background:#BE2B2B;
+	display: inline-block;
+
+}
+
+ .Fresh-food-directly{
+ 	color: #B1B1B1;
+ 	margin-top: 10px;
+ }
+
+
+.container2{
+	width: 1088px;
+	height: 376px;
+   margin: 102px auto;
+/*   background: yellow;*/
+}
+
+.minibox {
+	width:348px;
+	height:337px;
+	background: #F8F8F8;
+	display: inline-block;
+	margin:0 5px;
+	vertical-align: top;
+	text-align: center;
+/*	padding-top: 10px;*/
+}
